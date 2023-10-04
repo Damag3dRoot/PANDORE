@@ -1,0 +1,17 @@
+# Thanks to all
+
+* [Hacktricks](https://book.hacktricks.xyz/welcome/readme)
+* [GTFobins](https://gtfobins.github.io/)
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [Slyth11907](https://github.com/slyth11907/Cheatsheets)
+* [SecureFlag](https://knowledge-base.secureflag.com/)
+* [Owasp](https://cheatsheetseries.owasp.org/index.html)
+* [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+* [Aldeid](https://www.aldeid.com/wiki/Category:Penetration-testing)
+* [Haax](https://cheatsheet.haax.fr/)
+* [Redtm](https://redtm.com/)
+* [4n3i5v74](https://github.com/4n3i5v74/the-book-of-secret-knowledge)
+* [NetbiosX](https://github.com/netbiosX/Checklists)
+* [xrbl](https://x0rb3l.github.io/)
+* [Hakluke](https://hakluke.medium.com/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
+* [Unfo](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
