@@ -1,0 +1,9 @@
+- TheSleutkit : https://sleuthkit.org/sleuthkit/download.php
+- Notepad++ (https://notepad-plus-plus.org/downloads/) ou sublimetext pour lire les gros fichiers texte
+- un viewer Markdown, comme le plugin MarkdownViever++ de Notepad++ par exemple (https://npp-user-manual.org/docs/plugins/)
+- EvtxECmd, d'Eric Zimmerman (version .net 4) https://f001.backblazeb2.com/file/EricZimmermanTools/EvtxECmd.zip
+- PECmd, d'Eric Zimmerman (version .net 4) https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip
+- Hindsight, https://github.com/obsidianforensics/hindsight 
+- RegRipper : https://github.com/keydet89/RegRipper3.0 
+- Libre Office (option) : https://www.libreoffice.org/download/download-libreoffice/
+- 7zip : https://www.7-zip.org/download.html
